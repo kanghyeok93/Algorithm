@@ -26,4 +26,4 @@ console.log('sumTo_02 ===> ', sumTo_02(5));
 const sumTo_03 = (number) => {
   return number * (number + 1) / 2
 }
-console.log('sumTo_03 ===> ', sumTo_03(5))
+console.log('sumTo_03 ===> ', sumTo_03(5));
